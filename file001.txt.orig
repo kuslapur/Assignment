@@ -1,0 +1,8 @@
+Testing git 
+Assignment on git
+<<<<<<< HEAD
+This is the feature 11
+This is the feature 2 
+=======
+this is the feature2
+>>>>>>> F2
