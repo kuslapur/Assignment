@@ -1,2 +1,4 @@
 Testing git 
 Assignment on git
+This is the feature 11
+This is the feature 2 
